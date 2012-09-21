@@ -8,7 +8,7 @@
 <body>
 
 <header>
-  <h1><em>rsf</em> another PHP framework</h1>  
+  <h1><em>rsf,</em> another PHP framework</h1>  
 </header>
 
 <?php echo $content; ?>

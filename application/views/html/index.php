@@ -1,5 +1,3 @@
-<p>Example of text from the view file</p>
-
 <h3>Installation:</h3>
 
 <p>If you install this on a root level domain it shouldn't be any problems, and <em>it should work out the box...</em></p>

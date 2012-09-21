@@ -1,5 +1,5 @@
 html {
-  background: #52844A;
+  background: #42687D;
   padding-top: 2%;
   font-family: "Pt Sans", "Helvetica", sans-serif;
   font-size: 115%;
@@ -11,4 +11,9 @@ body {
   padding: 2% 5%;
   margin: 0 auto;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+  color: #142934;
+}
+h1,
+h3 {
+  color: #DC143C;
 }
