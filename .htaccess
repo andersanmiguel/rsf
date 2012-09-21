@@ -1,0 +1,5 @@
+RewriteEngine on 
+RewriteBase /pruebas/framework/
+
+RewriteRule ^public/(.+)$ $0 [L]
+RewriteRule !\.(js|ico|txt|gif|jpg|png|css)$ index.php

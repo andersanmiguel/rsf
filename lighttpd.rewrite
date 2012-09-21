@@ -1,0 +1,4 @@
+url.rewrite-once = (
+  "^/public/(.*)" => "$0",
+  "^/(.*)$" => "/index.php",
+)
