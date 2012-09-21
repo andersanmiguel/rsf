@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>rsf, PHP framework</title>
+  <link rel="stylesheet" href="<?php echo ASSETS; ?>/css/master.css">
 </head>
 <body>
 
